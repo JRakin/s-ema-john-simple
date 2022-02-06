@@ -1,16 +1,8 @@
-.product{
-    display: flex;
-    border-bottom: 1px solid lightgray;
-    margin-bottom: 5px;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    margin-right: 10px;
-}
-.product-name{
+.productName{
     color:blue;
     font-weight: 400;
 }
-.main-button{
+.mainButton{
     background-color: goldenrod;
     width: 150px;
     height: 30px;
@@ -19,6 +11,6 @@
     cursor: pointer;
     
 }
-.main-button:hover{
+.mainButton:hover{
     background-color: darkgoldenrod
 }

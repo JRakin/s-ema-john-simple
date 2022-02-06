@@ -1,9 +1,11 @@
 .header img{
     height: 80px;
 }
+
 .header{
     text-align: center;
 }
+
 .header nav{
     background-color: #000;
     line-height: 40px;
@@ -15,7 +17,6 @@ nav a{
     color: white;
     margin-right: 40px;
     padding: 5px;
-
 }
 
 nav a:hover{
