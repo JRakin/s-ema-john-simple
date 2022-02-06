@@ -22,7 +22,6 @@ const Shop = () => {
             return product;
         });
         setCart(cartProducts);
-        console.log("happening")
 
 
     }, [])
